@@ -1,7 +1,7 @@
 {
   "id": "da62266b1061",
   "participant": null,
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "glassbox",
     "scenario": "02-vendor-bundle",
@@ -54,7 +54,7 @@
     "read_document": null,
     "decision_speed": "deliberate",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": false
   },
   "meta": {
     "started": "2026-07-03T14:46:14.156954Z",
@@ -62,5 +62,19 @@
     "seconds": 113.3,
     "model": "llama-3.1-8b-instant",
     "final_answer": "The Procurement working group recommends Acme Object Cloud for a 60-day pilot."
+  },
+  "self_report": {
+    "trust_before": null,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null
+  },
+  "demographics": {
+    "age": null,
+    "field": null,
+    "ai_use": null,
+    "ai_experience": null
   }
 }
