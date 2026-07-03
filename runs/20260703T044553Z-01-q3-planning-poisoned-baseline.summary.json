@@ -20,9 +20,9 @@
     "log": []
   },
   "engagement": {
-    "read_document": null,
+    "read_document": false,
     "decision_speed": "none",
-    "profile": "unknown",
+    "profile": "careless",
     "flagged_at_review": false
   },
   "meta": {
