@@ -61,7 +61,7 @@
     "comprehension": null,
     "decision_speed": "none",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": true
   },
   "meta": {
     "started": "2026-07-03T22:16:15.620466Z",
@@ -69,5 +69,21 @@
     "seconds": 115.5,
     "model": "llama-3.1-8b-instant",
     "final_answer": null
+  },
+  "self_report": {
+    "trust_before": 4,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": "18-25",
+    "field": "business",
+    "ai_use": "daily",
+    "ai_experience": "<1yr"
   }
 }
