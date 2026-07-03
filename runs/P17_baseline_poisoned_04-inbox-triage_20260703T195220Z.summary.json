@@ -35,13 +35,13 @@
   },
   "self_report": {
     "trust_before": 4,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 3,
+    "trust_change": -1,
+    "usability": 70.0,
+    "workload": 3.5,
+    "noticed_anomaly": "unsure",
+    "noticed_explain": "",
+    "injection_known_prior": "no"
   },
   "demographics": {
     "age": "26-35",
