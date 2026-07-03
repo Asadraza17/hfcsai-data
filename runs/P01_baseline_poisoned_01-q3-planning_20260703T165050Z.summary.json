@@ -1,7 +1,7 @@
 {
   "id": "58aeeee03dbf",
   "participant": "P01",
-  "valid": false,
+  "valid": true,
   "condition": {
     "arm": "baseline",
     "scenario": "01-q3-planning",
@@ -35,13 +35,13 @@
   },
   "self_report": {
     "trust_before": 2,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 2,
+    "trust_change": 0,
+    "usability": 45.0,
+    "workload": 3.5,
+    "noticed_anomaly": "no",
+    "noticed_explain": "",
+    "injection_known_prior": "no"
   },
   "demographics": {
     "age": "18-25",
