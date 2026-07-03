@@ -20,10 +20,10 @@
     "log": []
   },
   "engagement": {
-    "read_document": null,
-    "comprehension": null,
+    "read_document": true,
+    "comprehension": "passed",
     "decision_speed": "none",
-    "profile": "unknown",
+    "profile": "engaged",
     "flagged_at_review": false
   },
   "meta": {
