@@ -1,7 +1,7 @@
 {
   "id": "0de14ed3217e",
   "participant": "P11",
-  "valid": false,
+  "valid": true,
   "condition": {
     "arm": "glassbox",
     "scenario": "01-q3-planning",
@@ -72,13 +72,13 @@
   },
   "self_report": {
     "trust_before": 5,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 7,
+    "trust_change": 2,
+    "usability": 85.0,
+    "workload": 3.25,
+    "noticed_anomaly": "no",
+    "noticed_explain": "",
+    "injection_known_prior": "yes"
   },
   "demographics": {
     "age": "18-25",
