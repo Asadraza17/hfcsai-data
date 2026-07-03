@@ -1,7 +1,7 @@
 {
   "id": "3eaa25dc1a49",
   "participant": "P03",
-  "valid": false,
+  "valid": true,
   "condition": {
     "arm": "baseline",
     "scenario": "03-calendar-week",
@@ -35,13 +35,13 @@
   },
   "self_report": {
     "trust_before": 6,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 2,
+    "trust_change": -4,
+    "usability": 40.0,
+    "workload": 2.5,
+    "noticed_anomaly": "no",
+    "noticed_explain": "",
+    "injection_known_prior": "no"
   },
   "demographics": {
     "age": "18-25",
