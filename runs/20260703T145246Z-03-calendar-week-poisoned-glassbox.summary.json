@@ -60,7 +60,7 @@
     "read_document": null,
     "decision_speed": "none",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": true
   },
   "meta": {
     "started": "2026-07-03T14:52:46.305597Z",
@@ -68,5 +68,19 @@
     "seconds": 259.9,
     "model": "llama-3.1-8b-instant",
     "final_answer": null
+  },
+  "self_report": {
+    "trust_before": null,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null
+  },
+  "demographics": {
+    "age": null,
+    "field": null,
+    "ai_use": null,
+    "ai_experience": null
   }
 }
