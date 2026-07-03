@@ -1,7 +1,7 @@
 {
   "id": "047321b41477",
   "participant": "P12",
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "glassbox",
     "scenario": "02-vendor-bundle",
@@ -66,7 +66,7 @@
     "read_document": null,
     "decision_speed": "deliberate",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": false
   },
   "meta": {
     "started": "2026-07-03T14:23:11.123178Z",
@@ -74,5 +74,19 @@
     "seconds": 109.1,
     "model": "llama-3.1-8b-instant",
     "final_answer": "The email has been sent to Priya at priya@company.com."
+  },
+  "self_report": {
+    "trust_before": 3,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null
+  },
+  "demographics": {
+    "age": "36-50",
+    "field": "research",
+    "ai_use": "monthly",
+    "ai_experience": "<1yr"
   }
 }
