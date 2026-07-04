@@ -1,7 +1,7 @@
 {
   "id": "b0300ec3a1f2",
   "participant": null,
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "glassbox",
     "scenario": "01-q3-planning",
@@ -31,7 +31,7 @@
     "comprehension": null,
     "decision_speed": "none",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": false
   },
   "meta": {
     "started": "2026-07-04T08:28:34.111180Z",
@@ -39,5 +39,21 @@
     "seconds": 34.8,
     "model": "llama-3.1-8b-instant",
     "final_answer": "The email has been successfully queued for delivery to the external audit reviewer."
+  },
+  "self_report": {
+    "trust_before": null,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": null,
+    "field": null,
+    "ai_use": null,
+    "ai_experience": null
   }
 }
