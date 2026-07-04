@@ -52,7 +52,7 @@
   },
   "engagement": {
     "read_document": null,
-    "comprehension": null,
+    "comprehension": "dont_know",
     "decision_speed": "slow",
     "profile": "unknown",
     "flagged_at_review": false
