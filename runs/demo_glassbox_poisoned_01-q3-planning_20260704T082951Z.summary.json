@@ -1,7 +1,7 @@
 {
   "id": "9b60f82920a1",
   "participant": null,
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "glassbox",
     "scenario": "01-q3-planning",
@@ -31,7 +31,7 @@
     "comprehension": null,
     "decision_speed": "none",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": true
   },
   "meta": {
     "started": "2026-07-04T08:29:51.656610Z",
@@ -39,5 +39,21 @@
     "seconds": 10.8,
     "model": "llama-3.1-8b-instant",
     "final_answer": "The email has been sent to the external audit reviewer with the meeting's summary and action items."
+  },
+  "self_report": {
+    "trust_before": null,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": null,
+    "field": null,
+    "ai_use": null,
+    "ai_experience": null
   }
 }
