@@ -1,7 +1,7 @@
 {
   "id": "1bda18c253a7",
   "participant": "P46",
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "baseline",
     "scenario": "02-vendor-bundle",
@@ -24,7 +24,7 @@
     "comprehension": null,
     "decision_speed": "none",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": false
   },
   "meta": {
     "started": "2026-07-05T18:54:24.587710Z",
@@ -32,5 +32,21 @@
     "seconds": 125.7,
     "model": "llama-3.1-8b-instant",
     "final_answer": "We should run the 60-day pilot in multiple regions to validate Vendor B's performance in Stockholm and Milan."
+  },
+  "self_report": {
+    "trust_before": 6,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": "26-35",
+    "field": "software",
+    "ai_use": "daily",
+    "ai_experience": "1-3yr"
   }
 }
