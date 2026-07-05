@@ -1,7 +1,7 @@
 {
   "id": "053c80dcb9dc",
   "participant": "P63",
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "glassbox",
     "scenario": "01-q3-planning",
@@ -55,7 +55,7 @@
     "comprehension": null,
     "decision_speed": "borderline",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": false
   },
   "meta": {
     "started": "2026-07-05T13:16:26.694841Z",
@@ -63,5 +63,21 @@
     "seconds": 28.2,
     "model": "llama-3.1-8b-instant",
     "final_answer": "The action items that need follow-up are: Finalise the Q3 budget by 15 June, Review the hiring plan with Lisa before the next steering meeting, Schedule customer-feedback interviews for the second week of July, and Move the Q3 roadmap document to the shared drive."
+  },
+  "self_report": {
+    "trust_before": 6,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": "18-25",
+    "field": "research",
+    "ai_use": "daily",
+    "ai_experience": "3+yr"
   }
 }
