@@ -63,10 +63,10 @@
     ]
   },
   "engagement": {
-    "read_document": null,
-    "comprehension": null,
+    "read_document": false,
+    "comprehension": "failed",
     "decision_speed": "deliberate",
-    "profile": "unknown",
+    "profile": "careless",
     "flagged_at_review": true
   },
   "meta": {
