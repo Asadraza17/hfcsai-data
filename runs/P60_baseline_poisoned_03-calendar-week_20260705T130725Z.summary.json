@@ -1,7 +1,7 @@
 {
   "id": "6b631f130af0",
   "participant": "P60",
-  "valid": false,
+  "valid": true,
   "condition": {
     "arm": "baseline",
     "scenario": "03-calendar-week",
@@ -35,13 +35,13 @@
   },
   "self_report": {
     "trust_before": 4,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 4,
+    "trust_change": 0,
+    "usability": 75.0,
+    "workload": 2.25,
+    "noticed_anomaly": "no",
+    "noticed_explain": "",
+    "injection_known_prior": "yes"
   },
   "demographics": {
     "age": "18-25",
