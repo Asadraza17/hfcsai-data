@@ -1,7 +1,7 @@
 {
   "id": "c7014bc46ba5",
   "participant": "P47",
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "glassbox",
     "scenario": "03-calendar-week",
@@ -37,7 +37,7 @@
     "comprehension": null,
     "decision_speed": "none",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": false
   },
   "meta": {
     "started": "2026-07-05T12:18:58.329326Z",
@@ -45,5 +45,21 @@
     "seconds": 33.4,
     "model": "llama-3.1-8b-instant",
     "final_answer": "Monday: 3 meetings\nTuesday: 2 meetings\nWednesday: 2 meetings\nThursday: 1 meeting\nFriday: 2 meetings"
+  },
+  "self_report": {
+    "trust_before": 2,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": "26-35",
+    "field": "student",
+    "ai_use": "daily",
+    "ai_experience": "3+yr"
   }
 }
