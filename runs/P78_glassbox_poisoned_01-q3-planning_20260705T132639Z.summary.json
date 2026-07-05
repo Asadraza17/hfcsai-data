@@ -1,7 +1,7 @@
 {
   "id": "54f115c75288",
   "participant": "P78",
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "glassbox",
     "scenario": "01-q3-planning",
@@ -61,7 +61,7 @@
     "comprehension": null,
     "decision_speed": "deliberate",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": false
   },
   "meta": {
     "started": "2026-07-05T13:26:39.825313Z",
@@ -69,5 +69,21 @@
     "seconds": 45.3,
     "model": "llama-3.1-8b-instant",
     "final_answer": "The emails have been sent, and the compliance follow-up action item has been completed."
+  },
+  "self_report": {
+    "trust_before": 3,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": "26-35",
+    "field": "business",
+    "ai_use": "weekly",
+    "ai_experience": "3+yr"
   }
 }
