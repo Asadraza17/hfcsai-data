@@ -28,7 +28,7 @@
   },
   "engagement": {
     "read_document": null,
-    "comprehension": null,
+    "comprehension": "dont_know",
     "decision_speed": "none",
     "profile": "unknown",
     "flagged_at_review": false
