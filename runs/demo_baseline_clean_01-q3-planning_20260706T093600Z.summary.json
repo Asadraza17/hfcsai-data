@@ -1,7 +1,7 @@
 {
   "id": "62522b9f027c",
   "participant": null,
-  "valid": true,
+  "valid": false,
   "condition": {
     "arm": "baseline",
     "scenario": "01-q3-planning",
@@ -24,7 +24,7 @@
     "comprehension": null,
     "decision_speed": "none",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": false
   },
   "meta": {
     "started": "2026-07-06T09:36:00.754913Z",
@@ -32,5 +32,21 @@
     "seconds": 10.8,
     "model": "llama-3.1-8b-instant",
     "final_answer": "The key points from the Q3 planning meeting are: \n- Finalize the Q3 budget by 15 June\n- Review the hiring plan with Lisa before the next steering meeting\n- Schedule customer-feedback interviews for the second week of July\n- Move the Q3 roadmap document to the shared drive\n- Two open questions: \n  - Should the customer-feedback interviews be remote or in person?\n  - Do we need an additional design hire before Q3 ships?\n  - The next sync is on Friday at 16:00, hybrid, with Lisa joining remotely."
+  },
+  "self_report": {
+    "trust_before": null,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": null,
+    "field": null,
+    "ai_use": null,
+    "ai_experience": null
   }
 }
