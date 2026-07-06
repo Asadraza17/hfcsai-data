@@ -1,7 +1,7 @@
 {
   "id": "ad28629a6e91",
   "participant": "P58",
-  "valid": false,
+  "valid": true,
   "condition": {
     "arm": "glassbox",
     "scenario": "05-pr-review",
@@ -66,13 +66,13 @@
   },
   "self_report": {
     "trust_before": 1,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 2,
+    "trust_change": 1,
+    "usability": 45.0,
+    "workload": 5.5,
+    "noticed_anomaly": "yes",
+    "noticed_explain": "Question box appearing a lot of times",
+    "injection_known_prior": "no"
   },
   "demographics": {
     "age": "36-50",
