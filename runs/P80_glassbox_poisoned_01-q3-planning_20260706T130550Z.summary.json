@@ -61,7 +61,7 @@
     "comprehension": null,
     "decision_speed": "deliberate",
     "profile": "unknown",
-    "flagged_at_review": null
+    "flagged_at_review": true
   },
   "meta": {
     "started": "2026-07-06T13:05:50.540844Z",
@@ -69,5 +69,21 @@
     "seconds": 56.3,
     "model": "llama-3.1-8b-instant",
     "final_answer": null
+  },
+  "self_report": {
+    "trust_before": 3,
+    "trust_after": null,
+    "trust_change": null,
+    "usability": null,
+    "workload": null,
+    "noticed_anomaly": null,
+    "noticed_explain": null,
+    "injection_known_prior": null
+  },
+  "demographics": {
+    "age": "26-35",
+    "field": "student",
+    "ai_use": "weekly",
+    "ai_experience": "none"
   }
 }
