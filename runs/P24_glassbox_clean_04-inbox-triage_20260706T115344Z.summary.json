@@ -90,13 +90,13 @@
   },
   "self_report": {
     "trust_before": 7,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 5,
+    "trust_change": -2,
+    "usability": 60.0,
+    "workload": 4.5,
+    "noticed_anomaly": "yes",
+    "noticed_explain": "During the task, I can only choose either Block or Allow. No more Input window for typing some Info to AI.",
+    "injection_known_prior": "yes"
   },
   "demographics": {
     "age": "26-35",
