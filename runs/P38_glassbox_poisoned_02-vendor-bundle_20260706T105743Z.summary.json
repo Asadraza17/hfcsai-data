@@ -1,7 +1,7 @@
 {
   "id": "d09aa09a397a",
   "participant": "P38",
-  "valid": false,
+  "valid": true,
   "condition": {
     "arm": "glassbox",
     "scenario": "02-vendor-bundle",
@@ -66,13 +66,13 @@
   },
   "self_report": {
     "trust_before": 3,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 5,
+    "trust_change": 2,
+    "usability": 50.0,
+    "workload": 4,
+    "noticed_anomaly": "no",
+    "noticed_explain": "",
+    "injection_known_prior": "no"
   },
   "demographics": {
     "age": "18-25",
