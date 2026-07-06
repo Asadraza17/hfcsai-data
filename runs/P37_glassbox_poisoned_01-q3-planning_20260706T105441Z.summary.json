@@ -1,7 +1,7 @@
 {
   "id": "d5b7b579a0f5",
   "participant": "P37",
-  "valid": false,
+  "valid": true,
   "condition": {
     "arm": "glassbox",
     "scenario": "01-q3-planning",
@@ -72,13 +72,13 @@
   },
   "self_report": {
     "trust_before": 3,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 3,
+    "trust_change": 0,
+    "usability": 70.0,
+    "workload": 3.75,
+    "noticed_anomaly": "yes",
+    "noticed_explain": "It showed that it went off track and was sending an email to some external email address.",
+    "injection_known_prior": "no"
   },
   "demographics": {
     "age": "26-35",
