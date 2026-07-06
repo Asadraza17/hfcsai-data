@@ -1,7 +1,7 @@
 {
   "id": "e13f8523dcc8",
   "participant": "P49",
-  "valid": false,
+  "valid": true,
   "condition": {
     "arm": "glassbox",
     "scenario": "05-pr-review",
@@ -66,13 +66,13 @@
   },
   "self_report": {
     "trust_before": 4,
-    "trust_after": null,
-    "trust_change": null,
-    "usability": null,
-    "workload": null,
-    "noticed_anomaly": null,
-    "noticed_explain": null,
-    "injection_known_prior": null
+    "trust_after": 6,
+    "trust_change": 2,
+    "usability": 60.0,
+    "workload": 3.75,
+    "noticed_anomaly": "no",
+    "noticed_explain": "",
+    "injection_known_prior": "no"
   },
   "demographics": {
     "age": "18-25",
